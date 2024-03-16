@@ -1,0 +1,32 @@
+{
+  "name": "random-fail",
+  "version": "1.0.0",
+  "description": "A collection of utilities for generating random data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "faker": "^7.0.0",
+    "chance": "^1.1.7",
+    "zenkit-chat": "1.0.0",
+    "evgeny32-data": "1.1.4",
+    "astral-guide-live": "1.0.0",
+    "castquantum-coder": "1.0.0",
+    "chenthilcavazos-awesome-module": "1.1.4",
+    "lunar-insight-flee": "1.0.0",
+    "bite-text-crypto": "1.0.0",
+    "put-datafeed": "1.0.0",
+    "puytaupojahrjoy-random": "1.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
