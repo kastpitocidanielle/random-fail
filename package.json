@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "<repository_url>"
+    "url": "https://github.com/kastpitocidanielle/random-fail"
   },
   "dependencies": {
     "faker": "^7.0.0",
@@ -26,7 +26,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "<repository_url>/issues"
+    "url": "https://github.com/kastpitocidanielle/random-fail/issues"
   },
-  "homepage": "<repository_url>#readme"
+  "homepage": "https://github.com/kastpitocidanielle/random-fail#readme"
 }
